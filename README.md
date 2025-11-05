@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Phumphagon!
+# 👋 Hi My name is Phumphagon Komanpririn
 💻 Computer Science Student @ Thammasat University  
 ☁️ Passionate about Cloud Computing, Web Development, and AI  
 
