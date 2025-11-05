@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Phumphagon!
+💻 Computer Science Student @ Thammasat University  
+☁️ Passionate about Cloud Computing, Web Development, and AI  
 
-<!--
-**Phumphagon-Komanpririn-6609650582/Phumphagon-Komanpririn-6609650582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- **Frontend:** HTML, CSS, React, JavaScript  
+- **Backend:** Node.js, Python, AWS Lambda, API Gateway  
+- **Database:** DynamoDB, MySQL  
+- **Cloud:** AWS (S3, SNS, CloudWatch, IAM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+- [SellWai Inventory System](https://github.com/phumphagon/SellWai)  
+- [CS Petition System](https://github.com/phumphagon/CS-Petition-System)
+
+---
+
+## 📫 Connect with Me
+- 🌐 [Portfolio Website](https://phumphagon.github.io)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/phumphagon)
