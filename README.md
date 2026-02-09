@@ -20,8 +20,3 @@
 - [Movie Ticket Booking Web Application](https://github.com/Chayada23/MovieDBProject.git)
 - [Student Request Management System](https://github.com/tha15thai/cs261-group1-650001.git)
 
----
-
-## 📫 Connect with Me
-- 🌐 [Portfolio Website](https://phumphagon.github.io)  
-- 💼 [LinkedIn]
