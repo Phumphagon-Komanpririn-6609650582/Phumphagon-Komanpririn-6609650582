@@ -4,12 +4,12 @@
 ---
 
 ## 🧰 Tech Stack
-- **Languages & Frameworks:** HTML, CSS, JavaScript, Python
+- **Languages & Frameworks:** HTML, CSS, JavaScript, Python, C, Node.js, Go lang
 - **Backend & Cloud Services:** AWS Lambda, API Gateway, DynamoDB, SNS, S3, AWS EC2
 - **Database:** MySQL, DynamoDB
 - **UI/UX Design:** Figma, Canva
 - **Project Management & Tools:** Git, Trello, Agile/Scrum
-- **Platforms & IDEs:** Google Colab, VS Code, AWS Management Console, Android Studio
+- **Platforms & IDEs:** Google Colab, VS Code, AWS Management Console, Android Studio, JMeter, Postman
 - **Others:** Microsoft Word, Excel, PowerPoint
 
 ---
