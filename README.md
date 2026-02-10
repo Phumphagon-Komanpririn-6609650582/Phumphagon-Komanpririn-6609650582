@@ -14,6 +14,14 @@
 
 ---
 
+## 📚Skills in Progress
+- React.js 
+- Node.js
+- English
+- Go lang
+
+---
+
 ## 🚀 Featured Projects
 - [Web-Based Inventory and Sales Management System](https://github.com/puttipong-6609650541/CS361-CloudArchitecture.git)  
 - [AI Prediction quality of sleep](https://github.com/Phumphagon-Komanpririn-6609650582/AI-Prediction-quality-of-sleep.git)
@@ -22,4 +30,6 @@
 - [Goalspin to-do list & gacha for android application](https://github.com/Phumphagon-Komanpririn-6609650582/GoalSpin.git)
 - [Asset Management System – Software Requirement Specification](https://github.com/Phumphagon-Komanpririn-6609650582/Software-Requirement-Specification.git)
 - [Test plan for student Request Management System](https://github.com/Phumphagon-Komanpririn-6609650582/Testplan-IEEE-829.git)
+
+
 
